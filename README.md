@@ -35,8 +35,6 @@ My journey has involved:
 - **Automation:** Scripting for timed operations, sensor-based triggers, hardware responses  
 
 ### 🌟 Personal Interests
-- Tech in education and accessibility  
-- Designing engaging STEM experiences for younger audiences  
 - Building intuitive hardware-software systems that "just make sense"  
 - Constantly tinkering, whether it’s electronics, new code, or odd projects for fun  
 - Learning new languages and exploring how code and culture intersect  
