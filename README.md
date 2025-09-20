@@ -20,7 +20,7 @@ My journey has involved:
 ## 🔧 Skills & Interests
 
 ### 💻 Programming & Software
-- **Languages:** Python, C++, Java, JavaScript, HTML/CSS, SQL, R  
+- **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SQL, Linux, Git/GitHub, Bash Scripting, R  
 - **Core Skills:** Object-Oriented Programming, Data Structures & Algorithms, GUI Programming, Embedded C  
 - **Tools & Frameworks:** Git, GitHub, VS Code, MATLAB, Arduino IDE  
 
