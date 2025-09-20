@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Subha!
 
 🎓 **Software Engineering Student @ McMaster University (Class of 2029)**  
-💡 I love building things that live at the intersection of software, hardware, and creativity.
+💡 I love building things that connect software, hardware, and creativity.
 
 
 ## 🧠 About Me
@@ -10,17 +10,17 @@ I'm an engineering student with a passion for problem-solving, hands-on tech, an
 
 My journey has involved:
 
-- 👶 Teaching kids robotics and programming with Arduino
-- ⚙️ Working with sensors, LCDs, buzzers, and embedded systems
-- 💾 Playing with data through SQL, CSV processing, and visualizations
-- 🎨 Designing smart user interfaces — both CLI and GUI
-- 🧠 Tackling algorithms, object-oriented programming, and microcontroller I/O logic
+- Teaching kids robotics and programming with Arduino
+- Working with sensors, LCDs, buzzers, and embedded systems
+- Playing with data through SQL, CSV processing, and visualizations
+- Designing smart user interfaces (both CLI and GUI)
+- Tackling algorithms, object-oriented programming, and microcontroller I/O logic
 
 
 ## 🔧 Skills & Interests
 
 ### 💻 Programming & Software
-- **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SQL, Linux, Git/GitHub, Bash Scripting, R  
+- **Languages:** Python, C/C++, Java, JavaScript, HTML/CSS, SQL, Linux, Bash Scripting, R  
 - **Core Skills:** Object-Oriented Programming, Data Structures & Algorithms, GUI Programming, Embedded C  
 - **Tools & Frameworks:** Git, GitHub, VS Code, MATLAB, Arduino IDE  
 
@@ -35,9 +35,9 @@ My journey has involved:
 - **Automation:** Scripting for timed operations, sensor-based triggers, hardware responses  
 
 ### 🌟 Personal Interests
-- Building intuitive hardware-software systems that "just make sense"  
-- Constantly tinkering, whether it’s electronics, new code, or odd projects for fun  
-- Learning new languages and exploring how code and culture intersect  
+- Building intuitive hardware-software systems
+- Constantly designing, whether it’s electronics, new code, or projects for fun  
+- Learning new languages and exploring the world of technology
 
 
 ## 📫 Let's Connect!
