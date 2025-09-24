@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subha!
 
-🎓 **Software Engineering Student @ McMaster University (Class of 2029)**  
+🎓 **Software Engineering Student (Year 2) @ McMaster University (Class of 2029)**  
 💡 I love building things that connect software, hardware, and creativity.
 
 
