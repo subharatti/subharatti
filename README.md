@@ -38,6 +38,7 @@ My journey has involved:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 - **Core Skills:**
 
