@@ -46,6 +46,10 @@ My journey has involved:
 ![GUI Programming](https://img.shields.io/badge/GUI%20Programming-4B8BBE?style=for-the-badge&logo=qt&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge&logo=c&logoColor=white)
 
+- **Currently Learning:**
+  
+![LangChain & LLMs](https://img.shields.io/badge/LangChain%20%26%20LLMs-1E9E5B?style=for-the-badge)
+
 
 ### ⚙️ Hardware & Engineering
 - **Microcontrollers:** Arduino, IR Sensors, Ultrasonic Sensors, Vibration Motors, LEDs, LCD Displays  
