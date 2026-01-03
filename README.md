@@ -20,7 +20,7 @@ My journey has involved:
 ## 🔧 Skills & Interests
 
 ### 💻 Programming & Software
-- **Languages and Tools:**
+- **Languages, Frameworks, and Tools:**
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,6 +40,12 @@ My journey has involved:
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![APIs](https://img.shields.io/badge/API%20Development-REST%20%7C%20JSON-green?style=for-the-badge)
+![Plaid API](https://img.shields.io/badge/Plaid%20API-FinTech-0A85EA?style=for-the-badge&logo=plaid&logoColor=white)
 - **Core Skills:**
 
 ![Object-Oriented Programming](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
