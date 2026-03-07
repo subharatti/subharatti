@@ -10,9 +10,11 @@ I'm an engineering student with a passion for problem-solving, hands-on tech, an
 
 My journey has involved:
 
+- Creating fun software applications using Python, Java, C, etc.
+- Exploring AI and machine learning through LLMs, NLP tools, and intelligent software features
+- Playing with data through SQL, CSV processing, and visualizations
 - Teaching kids robotics and programming with Arduino
 - Working with sensors, LCDs, buzzers, and embedded systems
-- Playing with data through SQL, CSV processing, and visualizations
 - Designing smart user interfaces (both CLI and GUI)
 - Tackling algorithms, object-oriented programming, and microcontroller I/O logic
 
@@ -57,16 +59,28 @@ My journey has involved:
   
 ![LangChain & LLMs](https://img.shields.io/badge/LangChain%20%26%20LLMs-1E9E5B?style=for-the-badge)
 
+### 💻 Programming & Software Development
+- **Languages:** Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, Bash, etc.
+- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Modular Design, Debugging  
+- **Applications:** Command-Line Tools, GUI Development, File Handling, General Software Implementation  
+- **Practices:** Algorithm Design, Code Optimization, Testing, Version Control
 
-### ⚙️ Hardware & Engineering
-- **Microcontrollers:** Arduino, IR Sensors, Ultrasonic Sensors, Vibration Motors, LEDs, LCD Displays  
-- **Prototyping Tools:** 3D Printing, Laser Cutting, Soldering, Breadboarding  
-- **Design Software:** Autodesk Inventor, Tinkercad, MATLAB Simulink  
+### 🤖 AI & Machine Learning
+- **Frameworks & Libraries:** HuggingFace Transformers, LangChain, Vertex AI  
+- **Concepts:** Prompt Engineering, Natural Language Processing (NLP), Model Inference, AI-Assisted Applications  
+- **Applications:** Chatbots, AI-powered Data Analysis, LLM Integrations, Automated Decision Support  
+- **Techniques:** Model Evaluation, Data Preprocessing, API Integration, Pipeline Development
 
 ### 📊 Data & Interfaces
 - **Databases:** SQLite, CSV/TXT I/O, SQL Query Handling, Data Export  
 - **Visualization:** Matplotlib, Tkinter Canvas, LCD-based interaction feedback  
-- **Automation:** Scripting for timed operations, sensor-based triggers, hardware responses  
+- **Automation:** Scripting for timed operations, sensor-based triggers, hardware responses
+  
+### ⚙️ Hardware & Engineering
+- **Microcontrollers:** Arduino, IR Sensors, Ultrasonic Sensors, Vibration Motors, LEDs, LCD Displays  
+- **Prototyping Tools:** 3D Printing, Laser Cutting, Soldering, Breadboarding  
+- **Design Software:** Autodesk Inventor, Tinkercad, MATLAB Simulink
+  
 
 ### 🌟 Personal Interests
 - Building intuitive hardware-software systems
