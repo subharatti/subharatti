@@ -66,7 +66,7 @@ My journey has involved:
 - **Practices:** Algorithm Design, Code Optimization, Testing, Version Control
 
 ### 🤖 AI & Machine Learning
-- **Frameworks & Libraries:** HuggingFace Transformers, LangChain, Vertex AI  
+- **Frameworks & Libraries:** HuggingFace Transformers, Open AI, Gemini AI, Groq AI, LangChain, Vertex AI  
 - **Concepts:** Prompt Engineering, Natural Language Processing (NLP), Model Inference, AI-Assisted Applications  
 - **Applications:** Chatbots, AI-powered Data Analysis, LLM Integrations, Automated Decision Support  
 - **Techniques:** Model Evaluation, Data Preprocessing, API Integration, Pipeline Development
