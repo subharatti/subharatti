@@ -1,34 +1,36 @@
+
 # 👋 Hi, I'm Subha!
 
-🎓 **Software Engineering Student (Year 2) @ McMaster University (Class of 2028)**  
-💡 I love building things that connect software, hardware, and creativity.
-
+🎓 **Electrical Engineering Student (Year 2) | Minor in Computer Science @ McMaster University (Class of 2028)**  
+💡 I love building things that connect hardware, software, and creativity.
 
 ## 🧠 About Me
 
-I'm an engineering student with a passion for problem-solving, hands-on tech, and turning ideas into real-world solutions. From microcontrollers and sensors to Python scripts and SQL tools, I'm always exploring how technology can be applied in clever, efficient, and meaningful ways.
+I'm an Electrical Engineering student pursuing a Minor in Computer Science, with a passion for problem-solving, hands-on technology, and turning ideas into real-world solutions. My interests lie at the intersection of electrical engineering, software development, embedded systems, and artificial intelligence.
+
+From circuit design and microcontrollers to full-stack applications and AI-powered tools, I'm always exploring ways to combine hardware and software to develop efficient, innovative solutions.
 
 My journey has involved:
 
-- Creating fun software applications using Python, Java, C, etc.
-- Exploring AI and machine learning through LLMs, NLP tools, and intelligent software features
-- Playing with data through SQL, CSV processing, and visualizations
-- Teaching kids robotics and programming with Arduino
-- Working with sensors, LCDs, buzzers, and embedded systems
-- Designing smart user interfaces (both CLI and GUI)
-- Tackling algorithms, object-oriented programming, and microcontroller I/O logic
-
+- Developing software applications using Python, Java, C/C++, and TypeScript
+- Exploring AI and machine learning through LLMs, computer vision, and intelligent software features
+- Working with electrical circuits, microcontrollers, sensors, and embedded systems
+- Building full-stack applications, automation tools, and data-driven solutions
+- Exploring high-performance computing, parallel programming, and code optimization
+- Teaching kids robotics and programming using Arduino
+- Designing intuitive user interfaces and interactive applications
+- Applying algorithms, object-oriented programming, and hardware-software integration to real-world problems
 
 ## 🔧 Skills & Interests
 
-### 💻 Programming & Software
-- **Languages, Frameworks, and Tools:**
-  
+### 💻 Programming Languages, Frameworks & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -42,53 +44,59 @@ My journey has involved:
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![APIs](https://img.shields.io/badge/API%20Development-REST%20%7C%20JSON-green?style=for-the-badge)
 ![Plaid API](https://img.shields.io/badge/Plaid%20API-FinTech-0A85EA?style=for-the-badge&logo=plaid&logoColor=white)
-- **Core Skills:**
 
-![Object-Oriented Programming](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0081CB?style=for-the-badge&logo=leetcode&logoColor=white)
-![GUI Programming](https://img.shields.io/badge/GUI%20Programming-4B8BBE?style=for-the-badge&logo=qt&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-3949AB?style=for-the-badge&logo=c&logoColor=white)
+### ⚡ Electrical Engineering & Hardware
 
-- **Currently Learning:**
-  
-![LangChain & LLMs](https://img.shields.io/badge/LangChain%20%26%20LLMs-1E9E5B?style=for-the-badge)
+- **Circuit Analysis & Design:** DC/AC Circuit Fundamentals, Circuit Simulation, Breadboarding, Testing
+- **Embedded Systems:** Arduino, Microcontrollers, Sensors, Actuators, Digital I/O
+- **Digital Systems:** Verilog, Digital Logic, FPGA Fundamentals
+- **Engineering Tools:** MATLAB, Simulink, Autodesk Inventor, Tinkercad
+- **Prototyping:** Soldering, 3D Printing, Laser Cutting, Hardware Integration
+- **Instrumentation:** Oscilloscopes, Digital Multimeters, Function Generators
 
 ### 💻 Programming & Software Development
-- **Languages:** Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, Bash, etc.
-- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Modular Design, Debugging  
-- **Applications:** Command-Line Tools, GUI Development, File Handling, General Software Implementation  
+
+- **Languages:** Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, Bash
+- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Modular Design, Debugging
+- **Development:** Full-Stack Applications, REST APIs, GUI Development, Automation Tools
 - **Practices:** Algorithm Design, Code Optimization, Testing, Version Control
+- **High-Performance Computing:** Parallel Programming, SIMD/AVX, CUDA Fundamentals, Performance Benchmarking
 
 ### 🤖 AI & Machine Learning
-- **Frameworks & Libraries:** HuggingFace Transformers, Open AI, Gemini AI, Groq AI, LangChain, Vertex AI  
-- **Concepts:** Prompt Engineering, Natural Language Processing (NLP), Model Inference, AI-Assisted Applications  
-- **Applications:** Chatbots, AI-powered Data Analysis, LLM Integrations, Automated Decision Support  
-- **Techniques:** Model Evaluation, Data Preprocessing, API Integration, Pipeline Development
+
+- **Frameworks & Tools:** Hugging Face Transformers, OpenAI, Gemini, Groq, LangChain, Vertex AI
+- **Concepts:** Natural Language Processing, Computer Vision, Model Inference, Prompt Engineering
+- **Applications:** AI Assistants, LLM Integrations, Intelligent Automation, AI-Powered Data Analysis
+- **Techniques:** Data Preprocessing, Model Evaluation, API Integration, Pipeline Development
 
 ### 📊 Data & Interfaces
-- **Databases:** SQLite, CSV/TXT I/O, SQL Query Handling, Data Export  
-- **Visualization:** Matplotlib, Tkinter Canvas, LCD-based interaction feedback  
-- **Automation:** Scripting for timed operations, sensor-based triggers, hardware responses
-  
-### ⚙️ Hardware & Engineering
-- **Microcontrollers:** Arduino, IR Sensors, Ultrasonic Sensors, Vibration Motors, LEDs, LCD Displays  
-- **Prototyping Tools:** 3D Printing, Laser Cutting, Soldering, Breadboarding  
-- **Design Software:** Autodesk Inventor, Tinkercad, MATLAB Simulink
-  
+
+- **Databases:** SQL, SQLite, Supabase, CSV/TXT Processing
+- **Visualization:** Matplotlib, Tkinter, Interactive Dashboards, LCD Interfaces
+- **Automation:** Python Scripting, Workflow Automation, Sensor-Based Triggers
+
+### 🌱 Currently Exploring
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-3949AB?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0081CB?style=for-the-badge)
+![High Performance Computing](https://img.shields.io/badge/High%20Performance%20Computing-FF6F00?style=for-the-badge)
+![AI & LLMs](https://img.shields.io/badge/AI%20%26%20LLMs-1E9E5B?style=for-the-badge)
 
 ### 🌟 Personal Interests
-- Building intuitive hardware-software systems
-- Constantly designing, whether it’s electronics, new code, or projects for fun  
-- Learning new languages and exploring the world of technology
 
+- Building systems that bridge electrical engineering and software
+- Exploring embedded systems, electronics, and intelligent hardware
+- Developing AI-powered tools and practical software applications
+- Designing and experimenting with new technologies
+- Continuously learning through hands-on projects and problem-solving
 
 ## 📫 Let's Connect!
 
-🔗 [LinkedIn](https://linkedin.com/in/subharatti)  
+🔗 [LinkedIn](https://linkedin.com/in/subharatti)
 
