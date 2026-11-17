@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Subha!
 
-🎓 **Electrical Engineering Student (Year 2) | Minor in Computer Science @ McMaster University (Class of 2028)**  
+🎓 **Electrical Engineering Student | Minor in Computer Science @ McMaster University (Class of 2028)**  
 💡 I love building things that connect hardware, software, and creativity.
 
 ## 🧠 About Me
